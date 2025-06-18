@@ -1,0 +1,56 @@
+site_name: Médiation scientifique - Inria 
+
+theme:
+  font:
+    text: Roboto
+
+  logo: assets/robot-solid.svg
+  favicon: assets/favicon.ico
+  name: material
+  custom_dir: src/overrides
+  palette:
+    primary: custom
+    accent: custom
+
+  language: fr
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.indexes
+    - toc.integrate
+    - navigation.top
+    - navigation.footer
+
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
+
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - def_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - md_in_html
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+
+plugins:
+    - mkdocs-video
+    - search # necessary for search to work
+    - awesome-pages
+    - glightbox
+    - table-reader

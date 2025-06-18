@@ -1,0 +1,24 @@
+<!-- Copyright and theme information -->
+<div class="md-copyright">
+  {% if config.copyright %}
+    <div class="md-copyright__highlight">
+      {{ config.copyright }}
+    </div>
+  {% endif %}
+  {% if not config.extra.generator == false %}
+    Fait par
+    <a
+      href="https://www.inria.fr"
+      target="_blank" rel="noopener"
+    >
+      Inria
+    </a>
+    avec 
+    <a
+    href="https://squidfunk.github.io/mkdocs-material/"
+    target="_blank" rel="noopener"
+  >
+    Material for MkDocs
+  </a>
+  {% endif %}
+</div>
