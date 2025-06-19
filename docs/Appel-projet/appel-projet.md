@@ -1,12 +1,12 @@
 ---
-title: Pages des appel à projets
-description: Retrouvez toutes les differents appel à projet (ANR).
+title: Appels à projets
+description: Retrouvez tous les différents appels à projets (ANR)
 hide:
   - navigation
   - toc
 ---
 
-# Les appel à projets 
+# Les appels à projets 
 
 Science avec et pour la société : c'est sous ce titre ou l'acronyme correspondant SAPS qu'est prévu un ensemble de mesures incitatives, distinctes et complémentaires, portées soit par l'Agence nationale de la recherche (ANR) soit directement par le ministère de tutelle (MESRI).
 
