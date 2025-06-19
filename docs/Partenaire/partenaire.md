@@ -14,7 +14,7 @@ Quelques partenaires avec qui nous menons des actions communes. Cette liste est 
 - [Avec nos partenaires](#avec-nos-partenaires)
     - [Des lieux de diffusion de la culture scientifique](#des-lieux-de-diffusion-de-la-culture-scientifique)
     - [Des associations](#des-associations)
-    - [Des fondations et société savantes](#des-fondations-et-soci%C3%A9t%C3%A9-savantes)
+    - [Des fondations et société savantes](#des-fondations-et-societe-savantes)
     - [Et d'autres partenaires](#et-dautres-partenaires)
 
 <!-- /TOC -->
