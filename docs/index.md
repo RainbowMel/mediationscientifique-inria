@@ -1,5 +1,5 @@
 ---
-title: Pages d'accueil
+title: Accueil
 description: Découvrez qui nous sommes, ce que nous faisons et où nous trouver.
 template: home.html
 hide:
@@ -7,111 +7,106 @@ hide:
   - toc
 ---
 
-# Bienvenue à la médiation scientifique
+# Bienvenue à la Médiation Scientifique !
 
-**Le partage de culture scientifique est un besoin ressenti à la fois par le public et par les scientifiques. Il s'agit, au minimum, de vulgariser des concepts scientifiques… mais pas seulement ! Au-delà de la vulgarisation, il y a la médiation scientifique.**
+**Le partage de Culture scientifique est un besoin ressenti à la fois par le public et par les scientifiques. Il s'agit, au minimum, de vulgariser des concepts scientifiques… mais pas seulement ! Au-delà de la vulgarisation, il y a la Médiation Scientifique.**
 
-Rendre les savoirs scientifiques accessibles au grand public est un enjeu de la vulgarisation et de l'éducation en général. Mais dans les deux cas, on considère généralement que l'échange se fait principalement dans un sens : du sachant vers l'apprenant.
-
-La médiation scientifique va au-delà de cette diffusion du savoir. Elle met en place une relation à double sens entre la société et la recherche scientifique. Ce double sens peut s'exprimer, quand il va de la société vers la recherche, via les préoccupations du public (des questions d’éthique par exemple) mais aussi des choix et des connaissances à prendre en compte dans cette relation. Le grand public peut expérimenter par lui-même, apporter sa réflexion, et aussi progresser dans ses connaissances scientifiques. La recherche scientifique, aussi, peut progresser en cultivant cette relation à double sens en étant à l'écoute du grand public. L'intérêt est double, pour la recherche comme pour la société, il s'agit de permettre des décisions éclairées, personnelles à l'échelle de l'individu et citoyennes à l'échelle de la société. 
+Rendre les savoirs scientifiques accessibles au grand public est un enjeu de la vulgarisation et de l'éducation en général. Mais dans les deux cas, on considère généralement que l'échange se fait principalement dans un sens : du sachant vers l'apprenant. La médiation scientifique va au-delà de cette diffusion du savoir. Elle met en place une relation à double sens entre la société et la recherche scientifique. Ce double sens peut s'exprimer, quand il va de la société vers la recherche, via les préoccupations du public (des questions d’éthique par exemple) mais aussi des choix et des connaissances à prendre en compte dans cette relation. Le grand public peut expérimenter par lui-même, apporter sa réflexion, et aussi progresser dans ses connaissances scientifiques. La recherche scientifique, aussi, peut progresser en cultivant cette relation à double sens en étant à l'écoute du grand public. L'intérêt est double, pour la recherche comme pour la société, il s'agit de permettre des décisions éclairées, personnelles à l'échelle de l'individu et citoyennes à l'échelle de la société. 
 
 Pour autant, éducation, vulgarisation, formation et médiation scientifique partagent un socle commun d’actions, de valeurs et d'effets attendus.
 
 !!! info 
 
-    Voir l[e site externe Pixees](https://pixees.fr/) qui contient aussi des ressources. Le réseau publie une [gazette tous les mois](https://pixees.fr/participer/), on peut s'y abonner.
+    Voir [Pixees](https://pixees.fr/) qui contient de nombreuses ressources. Le réseau publie une [gazette tous les mois](https://pixees.fr/participer/), n'hésitez pas à vous y abonner.
 
     Voir également [les publications de médiation scientifique déposées dans Hal](https://hal.science/INRIA-MEDIATION-SCIENTIFIQUE/).
 
 
-**Les objectifs de la médiation scientifique**
+**Les objectifs de la Médiation Scientifique**
 
-- vulgariser la science,
+- Vulgariser la science,
 
-- éveiller la curiosité pour les sciences du numérique,
+- Éveiller la curiosité pour les sciences du numérique,
 
-- faire comprendre la démarche scientifique,
+- Faire comprendre la démarche scientifique,
 
-- aider les citoyens à comprendre les enjeux du numérique,
+- Aider les citoyens à comprendre les enjeux du numérique,
 
-- former des formateurs et des médiateurs scientifiques,
+- Former des formateurs et des médiateurs scientifiques,
 
-- créer et partager des activités en ressources libres,
+- Créer et partager des activités en ressources libres,
 
-- promouvoir les sciences participatives,
+- Promouvoir les sciences participatives,
 
-- et plus généralement, établir un dialogue entre la société et les scientifiques.
+- Et plus généralement, établir un dialogue entre la société et les scientifiques.
 
-**Le réseau de médiation scientifique vous accompagne**
+**Le réseau de Médiation Scientifique vous accompagne**
 
 Le réseau accompagne les scientifiques en proposant des outils et expertises pour mettre en œuvre des actions de médiation :
 
+- [Formation à la Médiation Scientifique](https://pixees.fr/la-formation-a-la-mediation-scientifique-une-necessite/),
 
-- [formation à la médiation scientifique](https://pixees.fr/la-formation-a-la-mediation-scientifique-une-necessite/),
+- Veille et accompagnement au montage de projets de médiation scientifiques (ANR, projets européens, CCSTI...),
 
-- veille et accompagnement au montage de projets de médiation scientifiques (ANR, projets européens, CCSTI...),
+- Accompagnement au développement de ressources,
 
-- accompagnement au développement de ressources,
+- Élaboration de partenariats (associations, fondations, sociétés savantes…),
 
-- élaboration de partenariats (associations, fondations, sociétés savantes…),
+- Organisation d'évènements et rencontres (MathC2+, fête de la science, Chiche…),
 
-- organisation d'évènements et rencontres (MathC2+, fête de la science, Chiche…),
+- Organisation de webinaires et création d'espaces de démonstrations,
 
-- organisation de webinaires et création d'espaces de démonstrations,
+- Valorisation des activités de médiation scientifique dans les carrières professionnelles,
 
-- valorisation des activités de médiation scientifique dans les carrières professionnelles,
-
-- mise en contact suite à des sollicitations du public ( écoles, professeurs, entreprises, ...)
+- Mise en contact suite à des sollicitations du public ( écoles, professeurs, entreprises, ...)
 
 **Contacts**
 
-Au niveau national
+**Au niveau national, le service de Médiation Scientifique est composé de :**
 
-**La cellule de la médiation scientifique**
+- Chloé Bodineau, alternante en Médiation Scientifique, à Lille ;
 
-- Martine Courbin-Coulaud ingénieure documentaliste IES pour la médiation (DGDS-IES Bordeaux)
+- Alice Decarpigny, cheffe de projets de Médiation Scientifique, à Lille ;
 
-- Alice Decarpigny chargée de projets de médiation scientifique (DGDS Lille)
+- Clémence Dellenbach, chargée de projets de Médiation Scientifique, à Lille ;
 
-- Valérie François  ingénieure documentaliste IES pour la médiation (DGDS-IES Sophia-Antipolis)
+- Maël Guegan, chargé de projets de Médiation Scientifique, à Rocquencourt ;
 
-- Maël Guegan alternant médiation scientifique (DGDS Rocquencourt)
+- Laurence Hermant, cheffe de projet "1 scientifique, 1 classe : chiche !", à Rocquencourt ;
 
-- Christine Leininger chef de projet médiation scientifique (DGDS Rocquencourt)
+- Julie Jagielka, chargée de projets de Médiation Scientifique, à Rocquencourt ;
 
-- Mélanie Raimbault chef de projet informatique médiation scientifique, (DGDS Grenoble)
+- Christine Leininger, cheffe de projets de Médiation Scientifique, à Rocquencourt ;
 
-- Flora Sanchez alternante médiation scientifique (DGDS Grenoble)
+- Camille Picard, cheffe de projets de Médiation Scientifique, à Rocquencourt ;
 
-- Julie Jagielka (DGDS Rocquencourt)
+- Flora Sanchez, alternante en informatique, à Grenoble ;
 
-- Chloé Bodineau alternante médiation scientifique (DGDS Lille)
-
+- Marie Sanchez, chargée de projets de Médiation Scientifique et PO Connexion Chiche, à Bordeaux.
 
 [Pour nous contacter](mailto:mediation-scientifique@inria.fr)
 
-**Des référents dans chaque centre de recherche**
+**Et aussi des référents dans chaque centre de recherche :**
 
-Un binôme composé d'un communicant ou médiateur scientifique et d'un chercheur ou ingénieur.
+Un binôme composé d'un communicant ou médiateur scientifique et d'un chercheur ou ingénieur :
 
-- Centre Inria de l’université de Bordeaux  : Suzane Fleury, Emmanuelle Saillard ; [contact](mailto:mediation-bso@inria.fr)
+- Centre Inria de l’université de Bordeaux : Suzane Fleury, Emmanuelle Saillard, [contact](mailto:mediation-bso@inria.fr) ;
 
-- Centre Inria de l'Université Grenoble Alpes : Jean-Marc Vincent
+- Centre Inria de l'Université Grenoble Alpes : Natacha Cauchies, Jean-Marc Vincent ;
 
-- Centre Inria de l’Université de Lille : Julia Plaïa, Magda Guennadi, Rosane Ushirobira, Simon Lemaire
+- Centre Inria de l’Université de Lille : Julia Plaïa, Magda Guennadi, Rosane Ushirobira, Simon Lemaire ;
 
-- Centre Inria de Lyon : Anne-Laure Fogliani
+- Centre Inria de Lyon : Anne-Laure Fogliani ;
 
-- Centre Inria de l’Université de Lorraine  : Véronique Poirel, Erwan Kerrien
+- Centre Inria de l’Université de Lorraine : Véronique Poirel, Erwan Kerrien ;
 
-- Centre Inria de Paris  : Jennifer Grapin, Fabrice Rouillier
+- Centre Inria de Paris  : Jennifer Grapin, Fabrice Rouillier ;
 
-- Centre Inria de l’Université de Rennes  : Camille Sicot, Claire Cury, Thomas Maugey ; [contact](mailto:sc-rba@inria.fr)
+- Centre Inria de l’Université de Rennes : Camille Sicot, Claire Cury, Thomas Maugey, [contact](mailto:sc-rba@inria.fr) ;
 
-- Centre Inria de Saclay  : Amandine Kuhn, Lucie Peinturier, Irène Vignon-Clementel et Mathieu Hemery.
+- Centre Inria de Saclay : Amandine Kuhn, Danaé Baudson, Simon Mauras, Mathieu Hemery ;
 
-- Centre Inria d’Université Côte d’Azur  : Dorian Mazauric, Damien Saucez, Claire Betis; [contact](mailto:mediation-sam@inria.fr)
-
+- Centre Inria d’Université Côte d’Azur : Marc Fulconis, Dorian Mazauric, Damien Saucez, Romain Veltz, [contact](mailto:mediation-sam@inria.fr)
  
 ??? note "Centre Inria de l'université de Bordeaux"
 
